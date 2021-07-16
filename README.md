@@ -1,6 +1,6 @@
 ### Hi there 👋
-I want to become a professional front-end developer,
 my main technology is Vue
+Check out my projects
 
 <!--
 **Datureli/Datureli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
