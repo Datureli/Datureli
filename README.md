@@ -1,6 +1,7 @@
 ### Hi there 👋
                                  <https://reverent-panini-343037.netlify.app/>
-                                  my main technology is Vue 
+                                  
+                                  
 
 
 <!--
