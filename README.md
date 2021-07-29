@@ -1,6 +1,7 @@
 ### Hi there 👋
-my main technology is Vue
-Check out my projects
+                                    https://reverent-panini-343037.netlify.app/
+                                  my main technology is Vue Check out my projects
+
 
 <!--
 **Datureli/Datureli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
