@@ -1,5 +1,5 @@
 ### Hi there 👋
-                                 [check out my projects]   (https://reverent-panini-343037.netlify.app/)
+                                 [check out my projects](https://reverent-panini-343037.netlify.app/)
                                   my main technology is Vue 
 
 
