@@ -1,7 +1,6 @@
 ### Hi there 👋
                                 Checkout my portfolio
                             https://reverent-panini-343037.netlify.app/
-                            This site was built using [GitHub Pages](https://pages.github.com/).
                                   
                                   
 
