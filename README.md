@@ -7,9 +7,8 @@ Currently working on my blog with nuxt.js
 - 🌱 learning react
 - 🌱 learning typescript
 
-## Here check my latest portfolio [<img align="left" alt="my-portfolio" src="https://img.shields.io/badge/My-Portfolio-red" />](https://www.linkedin.com/in/pawe%C5%82-chmielewski-472a781a6/)
-
-
+## Here check my latest portfolio
+<br>## Connect with me[<img align="left" alt="linked-in" src="https://img.shields.io/badge/My-Portfolio-red" />](https://www.linkedin.com/in/pawe%C5%82-chmielewski-472a781a6/)
 
 https://img.shields.io/badge/My-Portfolio-red
 
