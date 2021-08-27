@@ -1,11 +1,12 @@
 ### Hello World 👋
 I am aspiring front end developer from Poland- 🔭 Working on multiple frontend project using Vue js
 
-Currently working on my blog with nuxt.js
+Currently working on my pizzaWebsiteApp
 
-- 🌱 Learning nuxt.js
-- 🌱 learning react
-- 🌱 learning typescript
+i want:
+- 🌱 Learn nuxt.js
+- 🌱 learn react
+- 🌱 learn typescript
 
 ## Here check my latest portfolio
 <br>## Connect with me[<img align="left" alt="linked-in" src="https://img.shields.io/badge/My-Portfolio-red" />](https://reverent-panini-343037.netlify.app/index.html)
