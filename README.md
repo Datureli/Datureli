@@ -1,5 +1,5 @@
 ### Hello World 👋
-I am aspiring front end developer from Poland- 🔭 Working on multiple frontend project using Vue js
+I am aspiring front end developer from Poland- 🔭 Working over many frontend project using Vue js
 
 Currently working on my pizzaWebsiteApp
 
