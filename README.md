@@ -1,8 +1,7 @@
 ### Hello World 👋
 I am aspiring front end developer from Poland- 🔭 Working over many frontend project using Vue js
 
-Currently working on my pizzaWebsiteApp
-
+Currently working on my frontEnd learning platform
 i want:
 - 🌱 Learn nuxt.js
 - 🌱 learn react
