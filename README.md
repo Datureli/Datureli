@@ -7,7 +7,7 @@ i want:
 - 🌱 learn react
 - 🌱 learn typescript
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=datureli)](https://github.com/Datureli/github-readme-stats)
 
 ![](https://komarev.com/ghpvc/?username=Datureli)
 ## Here check my latest portfolio
