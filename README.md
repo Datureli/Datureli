@@ -1,13 +1,15 @@
 ### Hello World 👋
 I am aspiring front end developer from Poland- 🔭 Working over many frontend project using Vue js
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=datureli)](https://github.com/Datureli/github-readme-stats)
+
 Currently working on my frontEnd learning platform
 i want:
 - 🌱 Learn nuxt.js
 - 🌱 learn react
 - 🌱 learn typescript
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=datureli)](https://github.com/Datureli/github-readme-stats)
+
 
 ![](https://komarev.com/ghpvc/?username=Datureli)
 ## Here check my latest portfolio
