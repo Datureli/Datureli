@@ -1,7 +1,7 @@
 ### Hello World 👋
 I am aspiring front end developer from Poland- 🔭 Working over many frontend project using Vue js
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=datureli)](https://github.com/Datureli/github-readme-stats) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=datureli)](https://github.com/Datureli/github-readme-stats) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=datureli&show_icons=true&theme=radical)
 
 Currently working on my frontEnd learning platform
 i want:
