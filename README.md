@@ -7,7 +7,7 @@ i want:
 - 🌱 learn react
 - 🌱 learn typescript
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=datureli)](https://github.com/Datureli/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=datureli&repo=github-readme-stats)](https://github.com/Datureli/github-readme-stats)
 
 ![](https://komarev.com/ghpvc/?username=Datureli)
 ## Here check my latest portfolio
