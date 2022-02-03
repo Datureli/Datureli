@@ -7,6 +7,8 @@ i want:
 - 🌱 learn react
 - 🌱 learn typescript
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 ![](https://komarev.com/ghpvc/?username=Datureli)
 ## Here check my latest portfolio
 <br>## Connect with me[<img align="left" alt="linked-in" src="https://img.shields.io/badge/My-Portfolio-red" />](https://reverent-panini-343037.netlify.app/index.html)
