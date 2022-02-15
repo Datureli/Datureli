@@ -7,7 +7,6 @@ I am aspiring front end developer from Poland- 🔭 Working over many frontend p
 Currently working on my frontEnd learning platform
 i want:
 - 🌱 Learn nuxt.js
-- 🌱 learn react
 - 🌱 learn typescript
 
 
