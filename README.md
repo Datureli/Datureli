@@ -4,6 +4,9 @@ I am aspiring front end developer from Poland- 🔭 Working over many frontend p
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=datureli&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=datureli&layout=compact)](https://github.com/Datureli/github-readme-stats) 
 
+Check my last project
+https://cranky-leakey-58c4cc.netlify.app/
+
 Currently working on my frontEnd learning platform
 i want:
 - 🌱 Learn nuxt.js
