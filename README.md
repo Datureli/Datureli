@@ -1,5 +1,5 @@
 ### Hello World 👋
-I am aspiring front end developer from Poland- 🔭 Working over many frontend project using Vue js
+I'm a front-end developer with one year of experience, passionate about manual testing and quality assurance. My favorite framework is Vue, but I'm versatile and proficient in various technologies. I'm dedicated to creating user-friendly and efficient web experiences. Let's collaborate and build something amazing together!"
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=datureli&layout=compact)](https://github.com/Datureli/github-readme-stats) 
 
